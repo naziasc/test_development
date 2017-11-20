@@ -1,0 +1,14 @@
+{
+  "name": "task_11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "week11.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^21.2.1"
+  }
+}
